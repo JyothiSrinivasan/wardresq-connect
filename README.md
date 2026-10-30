@@ -1,6 +1,16 @@
 # WardResQ Connect 🌊
 ### AI-Powered Flood Emergency Coordination System
 
+<p align="center">
+  <a href="https://wardresq-connect-ai-powered-flood-emergency-coord.ai.studio/">
+    <strong>🚀 LAUNCH LIVE DEMO</strong>
+  </a>
+</p>
+
+> 🌐 **Live Application:** [WardResQ Connect](https://wardresq-connect-ai-powered-flood-emergency-coord.ai.studio/)
+>
+> 💻 **Source Code:** [GitHub Repository](https://github.com/JyothiSrinivasan/wardresq-connect)
+
 **WardResQ Connect** is a prototype flood emergency coordination platform designed to improve communication between citizens, municipal authorities and disaster response teams during urban flooding.
 
 It creates a shared incident management environment where flood emergencies can be reported, prioritised, assigned and tracked.
