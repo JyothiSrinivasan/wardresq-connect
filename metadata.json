@@ -1,0 +1,6 @@
+{
+  "name": "WardResQ Connect – AI-Powered Flood Emergency Coordination System",
+  "description": "Indian municipal flood emergency coordination system for ward officers with AI-assisted rescue prioritisation, incident dispatching, and citizen WhatsApp reporting simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
